@@ -9,7 +9,7 @@ Maybe not so simple cheat for certain anime game <sub><sup>Genshin Impact</sup><
 It is reccomended to use [Visual Studio 2022.](https://visualstudio.microsoft.com/)
 As well as setting up **`genshin-cheat`** as startup project.
 **The following is a recommended procedure, but others may be used.**
-1. Clone repository with `git clone  --recurse-submodules https://github.com/gigakitty/ccgenshin`
+1. Clone repository with `git clone  --recurse-submodules https://github.com/runestack/ccgenshin`
 1. Open `genshin-cheat/genshincheat.sln`
 1. Build solution `genshincheat.sln`.
 
