@@ -2,6 +2,8 @@
 
 Maybe not so simple cheat for certain anime game <sub><sup>Genshin Impact</sup></sub>.
 <hr>
+If you are interested in continuing this project, contact me on discord: Majin Bijou#0001
+And I will contribute you :)
 
 <h1 align="center">Getting Started</h1>
 
