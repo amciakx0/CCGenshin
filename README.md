@@ -1,4 +1,4 @@
-<h1 align="center">GenshinCheat</h1>
+<h1 align="center">GenshinCheat 3.0</h1>
 
 Maybe not so simple cheat for certain anime game <sub><sup>Genshin Impact</sup></sub>.
 <hr>
