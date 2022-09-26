@@ -1,4 +1,4 @@
-<h1 align="center">GenshinCheat 3.0</h1>
+<h1 align="center">GenshinCheat 3.0</h1> is available here https://github.com/amciakx0/polygone
 
 Maybe not so simple cheat for certain anime game <sub><sup>Genshin Impact</sup></sub>.
 <hr>
